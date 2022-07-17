@@ -1,7 +1,6 @@
 http://sysctl.org/cameleon/hosts
 https://adaway.org/hosts.txt
 https://blocklist.site/app/dl/crypto
-https://blocklist.site/app/dl/tracking
 https://dbl.oisd.nl/
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -22,7 +21,6 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracki
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blocklist
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
@@ -40,8 +38,6 @@ https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/all.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 https://raw.githubusercontent.com/buggerman/SwitchBlockerForPiHole/master/PartBlock.txt
