@@ -25,7 +25,6 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-A
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
@@ -41,7 +40,6 @@ https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 https://raw.githubusercontent.com/buggerman/SwitchBlockerForPiHole/master/PartBlock.txt
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Germany.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/adaway.org/list.txt
